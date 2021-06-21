@@ -22,3 +22,6 @@
 [submodule "sem_04/bmstu_iu7_mdpl"]
 	path = sem_04/bmstu_iu7_mdpl
 	url = https://github.com/deniska-ned/bmstu_iu7_mdpl.git
+[submodule "sem_04/bmstu_iu7_oop"]
+	path = sem_04/bmstu_iu7_oop
+	url = https://github.com/deniska-ned/bmstu_iu7_oop.git
