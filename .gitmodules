@@ -10,3 +10,6 @@
 [submodule "sem_03/bmstu_iu7_C"]
 	path = sem_03/bmstu_iu7_C
 	url = https://github.com/deniska-ned/bmstu_iu7_C.git
+[submodule "sem_03/bmstu_iu7_dts"]
+	path = sem_03/bmstu_iu7_dts
+	url = https://github.com/deniska-ned/bmstu_iu7_dts.git
