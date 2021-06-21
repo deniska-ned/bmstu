@@ -1,0 +1,6 @@
+[submodule "sem_01/bmstu_iu7_python"]
+	path = sem_01/bmstu_iu7_python
+	url = https://github.com/deniska-ned/bmstu_iu7_python.git
+[submodule "sem_02/bmstu_iu7_python"]
+	path = sem_02/bmstu_iu7_python
+	url = https://github.com/deniska-ned/bmstu_iu7_python.git
