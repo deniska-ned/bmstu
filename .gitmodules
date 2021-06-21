@@ -19,3 +19,6 @@
 [submodule "sem_04/bmstu_iu7_cg"]
 	path = sem_04/bmstu_iu7_cg
 	url = https://github.com/deniska-ned/bmstu_iu7_cg.git
+[submodule "sem_04/bmstu_iu7_mdpl"]
+	path = sem_04/bmstu_iu7_mdpl
+	url = https://github.com/deniska-ned/bmstu_iu7_mdpl.git
