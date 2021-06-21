@@ -4,3 +4,9 @@
 [submodule "sem_02/bmstu_iu7_python"]
 	path = sem_02/bmstu_iu7_python
 	url = https://github.com/deniska-ned/bmstu_iu7_python.git
+[submodule "sem_02/bmstu_iu7_C"]
+	path = sem_02/bmstu_iu7_C
+	url = https://github.com/deniska-ned/bmstu_iu7_C.git
+[submodule "sem_03/bmstu_iu7_C"]
+	path = sem_03/bmstu_iu7_C
+	url = https://github.com/deniska-ned/bmstu_iu7_C.git
