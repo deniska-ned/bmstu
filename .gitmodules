@@ -25,3 +25,12 @@
 [submodule "sem_04/bmstu_iu7_oop"]
 	path = sem_04/bmstu_iu7_oop
 	url = https://github.com/deniska-ned/bmstu_iu7_oop.git
+[submodule "sem_05/bmstu_iu7_db"]
+	path = sem_05/bmstu_iu7_db
+	url = https://github.com/deniska-ned/bmstu_iu7_db.git
+[submodule "sem_05/bmstu_iu7_os"]
+	path = sem_05/bmstu_iu7_os
+	url = https://github.com/deniska-ned/bmstu_iu7_os.git
+[submodule "sem_05/bmstu_iu7_aa"]
+	path = sem_05/bmstu_iu7_aa
+	url = https://github.com/deniska-ned/bmstu_iu7_aa.git
