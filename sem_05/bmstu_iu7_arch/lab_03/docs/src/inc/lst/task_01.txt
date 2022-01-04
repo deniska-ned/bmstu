@@ -1,0 +1,57 @@
+Vendor ID: "GenuineIntel"; CPUID level 13
+
+äÏÐÏÌÎÉÔÅÌØÎÙÅ ÆÕÎËÃÉÉ Intel:
+÷ÅÒÉÓÉÑ 0001067a:
+Type 0 - Original OEM
+Family 6 - Pentium Pro
+Model 7 - Pentium III/Pentium III Xeon - external L2 cache
+Stepping 10
+Reserved 4
+
+Extended brand string: "Intel(R) Celeron(R) CPU E3301 @ 2.50GHz"
+CLFLUSH instruction cache line size: 8
+Initial APIC ID: 1
+Hyper threading siblings: 2
+
+Feature flags bfebfbff:
+0 FPU ðÒÉÓÕÔÓÔ×ÕÅÔ íÁÔÅÍÁÔÉÞÅÓËÉÊ ÓÏÐÒÏÃÅÓÓÏÒ
+1 VME ðÏÄÄÅÒÖËÁ ÒÁÓÛÉÒÅÎÎÙÈ ×ÏÚÍÏÖÎÏÓÔÅÊ ÏÂÒÁÂÏÔËÉ ÐÒÅÒÙ×ÁÎÉÊ × ÒÅÖÉÍÅ ×ÉÒÔÕÁÌØÎÏÇÏ i8086
+2 DE ðÏÄÄÅÒÖËÁ ÏÔÌÁÄËÉ
+3 PSE ðÏÄÄÅÒÖËÁ ÓÔÒÁÎÉÃ ÒÁÚÍÅÒÏÍ 4 MB
+4 TSC óÞÅÔÞÉË ÍÅÔÏË ÒÅÁÌØÎÏÇÏ ×ÒÅÍÅÎÉ
+5 MSR ðÏÄÄÅÒÖËÁ ËÏÍÁÎÄ rdmsr É wrmsr
+6 PAE ðÏÄÄÅÒÖËÁ ÆÉÚÉÞÅÓËÏÇÏ ÁÄÒÅÓÁ ÂÏÌÅÅ 32 ÂÉÔ
+7 MCE ðÏÄÄÅÒÖËÁ ÉÓËÌÀÞÅÎÉÊ 18 - ÏÂ ÁÐÐÁÒÁÔÎÙÈ ÏÛÉÂËÁÈ
+8 CX8 ðÏÄÄÅÒÖËÁ ÉÎÓÔÒÕËÃÉÉ cmpxchg8b
+9 APIC íÉËÒÏÐÒÏÃÅÓÓÏÒ ÓÏÄÅÒÖÉÔ ÐÒÏÇÒÁÍÍÎÏ ÄÏÓÔÕÐÎÙÊ ËÏÎÔÒÏÌÌÅÒ ÐÒÅÒÙ×ÁÎÉÊ
+11 SEP ðÏÄÄÅÒÖËÁ ÉÎÓÔÒÕËÃÉÊ ÂÙÓÔÒÙÈ ÓÉÓÔÅÍÎÙÈ ×ÙÚÏ×Ï× sysenter É sysexit
+12 MTRR ðÏÄÄÅÒÖËÁ ÒÅÇÉÓÔÒÁ mtrr_cap (ÏÔÎÏÓÉÔÓÑ Ë MSR-ÒÅÇÉÓÔÒÁÍ)
+13 PGE ðÏÄÄÅÒÖËÁ ÇÌÏÂÁÌØÎÙÈ ÓÔÒÁÎÉÃ
+14 MCA ðÏÄÄÅÒÖËÁ ÁÒÈÉÔÅËÔÕÒÙ ÍÁÛÉÎÎÏÇÏ ËÏÎÔÒÏÌÑ
+15 CMOV ðÏÄÄÅÒÖËÁ ÉÎÓÔÒÕËÃÉÊ ÕÓÌÏ×ÎÏÊ ÐÅÒÅÓÙÌËÉ cmov, fcmovcc, fcomi
+16 PAT ðÒÏÃÅÓÓÏÒ ÐÏÄÄÅÒÖÉ×ÁÅÔ ÔÁÂÌÉÃÕ ÁÔÒÉÂÕÔÏ× ÓÔÒÁÎÉÃÙ
+17 PSE-36 ðÒÏÃÅÓÓÏÒ ÐÏÄÄÅÒÖÉ×ÁÅÔ 4 MB ÓÔÒÁÎÉÃÙ, ËÏÔÏÒÙÅ ÓÐÏÓÏÂÎÙ ÁÄÒÅÓÏ×ÁÔØ ÆÉÚÉÞÅÓËÕÀ ÐÁÍÑÔØ ÄÏ 64 GB
+19 CLFLSH ðÏÄÄÅÒÖËÁ ÉÎÓÔÒÕËÃÉÉ CLFLUSH
+21 DS ðÏÄÄÅÒÖËÁ ÚÁÐÉÓÉ ÏÔÌÁÄÏÞÎÏÊ ÉÎÆÏÒÍÁÃÉÉ
+22 ACPI õÐÒÁ×ÌÅÎÉÅ ÏÈÌÁÖÄÅÎÉÅÍ ÐÒÏÃÅÓÓÏÒÁ Ó ÐÏÍÏÝØÀ ÐÕÓÔÙÈ ÃÉËÌÏ× × ÚÁ×ÉÓÉÍÏÓÔÉ ÏÔ ÔÅÍÐÅÒÁÔÕÒÙ
+23 MMX ðÏÄÄÅÒÖËÁ MMX
+24 FXSR ðÏÄÄÅÒÖËÁ ÉÎÓÔÒÕËÃÉÊ FXSAVE É FXRSTOR
+25 SSE ðÏÄÄÅÒÖËÁ SSE
+26 SSE2 ðÏÄÄÅÒÖËÁ SSE2
+27 SS õÐÒÁ×ÌÅÎÉÅ ËÏÎÆÌÉËÔÕÀÝÉÍÉ ÔÉÐÁÍÉ ÐÁÍÑÔÉ
+28 HTT ðÏÄÄÅÒÖËÁ Hyper-Threading
+29 TM ðÏÄÄÅÒÖËÁ Á×ÔÏÍÁÔÉÞÅÓËÏÇÏ ÍÏÎÉÔÏÒÉÎÇÁ ÔÅÍÐÅÒÁÔÕÒÙ
+31 SBF óÉÇÎÁÌ ïÓÔÁÎÏ×Á ÐÒÉ FERR
+
+TLB and cache info:
+b1: unknown TLB/cache descriptor
+b0: ÄÅÓËÒÉÐÔÏÒ TLB-ËÏÍÁÎÄ, 4K ÓÔÒÁÎÉÃÙ, ÁÓÓ. 4-ÎÁÐÒÁ×., 128 ÜÌÅÍÅÎÔÏ×
+05: unknown TLB/cache descriptor
+f0: unknown TLB/cache descriptor
+57: unknown TLB/cache descriptor
+56: unknown TLB/cache descriptor
+78: unknown TLB/cache descriptor
+30: L1 ËÜÛ-ËÏÍÁÎÄ, 32 KB, ÁÓÓ. 8-ÎÁÐÒÁ×., ÄÌÉÎÁ ÓÔÒÏËÉ 64 ÂÁÊÔÁ
+b4: unknown TLB/cache descriptor
+2c: L1 ËÜÛ-ÄÁÎÎÙÈ, 32 KB, ÁÓÓ. 8-ÎÁÐÒÁ×., ÄÌÉÎÁ ÓÔÒÏËÉ 64 ÂÁÊÔÁ
+Processor serial: 0001-067A-BFEB-FBFF-0400-E3BD
